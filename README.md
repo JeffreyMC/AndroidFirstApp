@@ -2,4 +2,4 @@
 
 ## Referencia
 
-![Imagen de referencia](index.png)
+![Imagen de referencia](index.jpeg)
